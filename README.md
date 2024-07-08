@@ -45,7 +45,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/whats-up-wellness.git
+git clone 
 Navigate to the Project Directory:
 
 bash
